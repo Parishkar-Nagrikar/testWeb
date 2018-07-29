@@ -14,7 +14,7 @@ public class Hello
   @Produces(MediaType.TEXT_PLAIN)  
   public String sayPlainTextHello() 
   {  
-    return "Hello Jersey Plain";  
+    return "Hello Jersey Plain!!";  
   }
   
 // This method is called if XML is requested  
